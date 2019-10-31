@@ -5,6 +5,7 @@ pipeline {
       steps {
         echo 'hello'
         echo 'world'
+        echo 'tree'
       }
     }
   }
